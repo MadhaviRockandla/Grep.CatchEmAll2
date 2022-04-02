@@ -51,7 +51,6 @@ wartortle -> filescan_00.4
 grep -r -E 'zcw|tbap' captured | wc -l
 
 ### b)
-
 wc -l captured/*.txt | sort -r
 
 The three biggest are :
